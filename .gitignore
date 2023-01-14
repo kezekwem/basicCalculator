@@ -1,0 +1,16 @@
+# Compiled files
+*.min.js
+*.min.css
+
+# Logs
+logs/*
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Compiled files
+dist/
+
+# Dependency directories
+node_modules/
